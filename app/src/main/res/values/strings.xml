@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">TMDB</string>
+    <string name="hint">Search</string>
+    <string name="hint_search">Search</string>
+</resources>
